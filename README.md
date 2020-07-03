@@ -6,7 +6,7 @@
 
 Lessons with notebooks and data available include:
 
-* Inverse Distance Weighting and Cross validation ([notebook](IDW.ipynb). Luis Escriba, 2020.
+* Inverse Distance Weighting and Cross validation ([notebook](IDW.ipynb)). Luis Escriba, 2020.
 
 ## Dependencies
 
