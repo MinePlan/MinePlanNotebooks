@@ -1,6 +1,6 @@
 # MinePlan Notebooks
 
-[MinePlan Lessons] is an open diclosure of some guidance on mine planning and geostatistics. These python notebooks and data are prepared by Lesson authors to supplement their Lesson. As new Lessons are authored and notebooks created, this repository will be updated.
+[MinePlan Notebooks](https://www.linkedin.com/pulse/idw-validación-cruzada-python-luis-david-escriba-cuya/) is an open diclosure of some guidance on mine planning and geostatistics. These python notebooks and data are prepared by Lesson authors to supplement their Lesson. As new Lessons are authored and notebooks created, this repository will be updated.
 
 ## Lessons
 
