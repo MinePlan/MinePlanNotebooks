@@ -8,7 +8,7 @@ Lessons with notebooks and data available include:
 
 * [Inverse Distance Weighting](https://www.linkedin.com/pulse/idw-validación-cruzada-python-luis-david-escriba-cuya/) and Cross validation ([notebook](IDW.ipynb)). Luis Escriba, 2020.
 
-* [Mining planning with uncertainty]() [notebook](). Luis Escriba, 2020.
+* [Mining planning with uncertainty]() ([notebook])(PLANIFICACION MINERA CON INCERTIDUMBRE.ipynb). Luis Escriba, 2020.
 
 ## Dependencies
 
