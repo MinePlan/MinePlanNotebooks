@@ -18,5 +18,3 @@ Notebooks are implemented in Python 3 using the scientific python stack (includi
 
 Notebooks are licensed under the [MIT](LICENSE)
 
-
-git reset <commit>
