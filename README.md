@@ -10,6 +10,9 @@ Lessons with notebooks and data available include:
 
 * [Mining planning](https://www.linkedin.com/pulse/planificacion-mina-con-incertidumbre-luis-david-escriba-cuya/) with uncertainty ([notebook](PLANIFICACION_MINERA_CON_INCERTIDUMBRE.ipynb)). Luis Escriba, 2020.
 
+* [Simulation of mining operations](https://www.linkedin.com/pulse/simulacion-operaciones-de-carguio-y-transporte-escriba-cuya/) and fleet of trucks and shovels ([notebook](Dimensionamiento_Flota_Transporte.ipynb)). Luis Escriba, 2020.
+
+
 ## Dependencies
 
 Notebooks are implemented in Python 3 using the scientific python stack (including NumPy, Pandas, Matplotlib). Refer to the individual notebooks for any particular dependencies.
